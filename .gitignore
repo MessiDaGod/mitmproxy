@@ -20,7 +20,7 @@ __pycache__
 
 # UI
 
-node_modules
+#node_modules
 bower_components
 *.map
 sslkeylogfile.log
